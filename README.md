@@ -2,9 +2,15 @@
 
 <h2>Bayes Method</h2>
 
+![Bayes model](https://github.com/santoshd97/Part-of-Speech-Tagging/blob/master/Bayes.png)
+
 <h2>Hidden Markov Model(HMM) using Viterbi</h2>
 
+![HMM model](https://github.com/santoshd97/Part-of-Speech-Tagging/blob/master/HMM.png)
+
 <h2>Markov Chain Monte Carlo(MCMC)</h2>
+
+![MCMC model](https://github.com/santoshd97/Part-of-Speech-Tagging/blob/master/MCMC.png)
 
 <h2>Result</h2>
 Command to run code ./label.py bc.train.txt bc.test.txt
