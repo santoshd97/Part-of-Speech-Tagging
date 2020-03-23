@@ -8,9 +8,9 @@
 
 <h2>Result</h2>
 <h3>Naive Bayes Accuracy</h3>
-Words correct = 93.92%
+Words correct = 93.92% <br>
 Sentences correct = 47.45%
 
 <h3>HMM Accuracy</h3>
-Words correct = 94.70%
+Words correct = 94.70% <br>
 Sentences correct = 53.25%
