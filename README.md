@@ -11,6 +11,10 @@
 Words correct = 93.92% <br>
 Sentences correct = 47.45%
 
-<h3>HMM Accuracy</h3>
+<h3>HMM using Viterbi Accuracy</h3>
 Words correct = 94.70% <br>
 Sentences correct = 53.25%
+
+<h3>MCMC Accuracy</h3>
+Words correct = 95.08% <br>
+Sentences correct = 55.65%
