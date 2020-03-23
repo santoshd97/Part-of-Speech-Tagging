@@ -7,6 +7,7 @@
 <h2>Markov Chain Monte Carlo(MCMC)</h2>
 
 <h2>Result</h2>
+Command to run code ./label.py bc.train.txt bc.test.txt
 <h3>Naive Bayes Accuracy</h3>
 Words correct = 93.92% <br>
 Sentences correct = 47.45%
