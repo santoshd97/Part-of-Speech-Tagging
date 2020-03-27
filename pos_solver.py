@@ -1,7 +1,7 @@
 ###################################
 # CS B551 Fall 2018, Assignment #3
 #
-# Santoshmurti Daptardar (sdaptard)
+# Santoshmurti Daptardar 
 #
 #######
 """"
