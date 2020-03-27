@@ -1,10 +1,7 @@
 ###################################
 # CS B551 Fall 2018, Assignment #3
 #
-# Santoshmurti Daptardar (sdaptard), Siddhesh Mirjankar (smirjank)
-#
-# (Based on skeleton code by D. Crandall)
-#
+# Santoshmurti Daptardar (sdaptard)
 #
 #######
 """"
