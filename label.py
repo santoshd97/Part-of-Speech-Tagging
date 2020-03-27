@@ -1,14 +1,10 @@
 #!/usr/bin/python2
 ###################################
-# CS B551 Fall 2018, Assignment #3
-# D. Crandall
-#
-# 
-# 
+# Assignment #3 
 #
 # To get started, try running: 
 #
-#   python ./label.py bc.train bc.test.tiny
+#   python ./label.py bc.train.txt bc.test.txt
 #
 
 from pos_scorer import Score
