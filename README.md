@@ -1,4 +1,4 @@
-# Part-of-Speech-Tagging
+# Part of Speech Tagging from Scratch
 
 <h2>Naive Bayes Method</h2>
 
